@@ -1,6 +1,8 @@
 # ICPC Resolutions
 
-Este repositório contém as resoluções dos problemas da Maratona de Programação da Sociedade Brasileira de Computação (SBC), fase brasileira do ICPC (International Collegiate Programming Contest). Todas as soluções foram implementadas em Python e organizadas por ano de competição. Os problemas estão presentes no .PDF de cada ano.
+Este repositório contém as resoluções dos problemas da Maratona de Programação da Sociedade Brasileira de Computação (SBC), fase brasileira do ICPC (International Collegiate Programming Contest). Todas as soluções foram implementadas em Python e organizadas por ano de competição. Os enunciados, entradas e saídas dos problemas estão presentes no .PDF de cada ano.
+
+Até o momento, os problemas estão incompletos.
 
 ## Estrutura do Repositório
 
